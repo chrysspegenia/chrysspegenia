@@ -18,7 +18,7 @@
  ### 📫 Connect with me at:
    
  [![Linkedin Badge](https://img.shields.io/badge/-chrysspegenia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrysspegenia/)](https://www.linkedin.com/in/chrysspegenia/)
- [![Gmail Badge](https://img.shields.io/badge/-chrysspegenia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrysspegenia@gmail.com)](chrysspegenia@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-chrysspegenia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrysspegenia@gmail.com)](mailto:chrysspegenia@gmail.com)
 
 </div>
 
